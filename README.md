@@ -21,8 +21,8 @@ With Eslint installed globally on vagrant we can simply eslint [file name] from 
 2. git init the repo
 3. create, add and commit random file to test
 4. on Github create an repo
-5. <git remote add origin URL>
-6. <git push -u origin maste>
+5. git remote add origin URL
+6. git push -u origin master
 
 
 
