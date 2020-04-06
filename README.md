@@ -15,6 +15,15 @@ This repository contains all of the notes taken by [Nick](https://github.com/hos
 
 With Eslint installed globally on vagrant we can simply eslint [file name] from its own directory and the terminal will produce a list of errors that need to be fixed.
 
+### Setting up git Repo
+
+1. In terminal, make a repo
+2. git init the repo
+3. create, add and commit random file to test
+4. on Github create an repo
+5. <git remote add origin URL>
+6. <git push -u origin maste>
+
 
 
 
